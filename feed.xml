@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HackerThemes - High Quality Bootstrap Themes</title>
+    <description>HackerThemes.com provides high quality Bootstrap themes.
+</description>
+    <link>http://hackerthemes.com/</link>
+    <atom:link href="http://hackerthemes.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Apr 2016 21:30:10 +0200</pubDate>
+    <lastBuildDate>Wed, 20 Apr 2016 21:30:10 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Bootstrap 4 Cheat Sheet</title>
+        <description>
+</description>
+        <pubDate>Tue, 19 Apr 2016 00:00:00 +0200</pubDate>
+        <link>http://hackerthemes.com/2016/04/19/bootstrap-cheatsheet.html</link>
+        <guid isPermaLink="true">http://hackerthemes.com/2016/04/19/bootstrap-cheatsheet.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bootstrap 4 PSD Template</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/bs4psd/gutter_columns.thumb.png&quot; class=&quot;img-fluid img-rounded pull-right blog-thumb&quot; alt=&quot;Gutter Columns&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My Bootstrap themes start their life as a mockup in Photoshop. When designing for Bootstrap, 
+it comes in handy to have the targeted column sizes available in some form, so objects and text
+can be aligned to the grid easily. For Bootstrap 3, there’s a myriad of good templates, but for
+the upcoming Bootstrap 4 there is not much around yet.
+This is why I created this Bootstrap 4 PSD template as a foundation
+to quickly mockup a theme or website I want to build. Here’s a quick
+overview of the features I’ve included. For a more detailed rundown, see further down.&lt;/p&gt;
+
+&lt;h3 id=&quot;features&quot;&gt;Features&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Artboards for xl, lg, md and sm viewport sizes&lt;/li&gt;
+  &lt;li&gt;Shape objects for columns and gutters&lt;/li&gt;
+  &lt;li&gt;Screen size helpers for common screen sizes&lt;/li&gt;
+  &lt;li&gt;Test images rendered in an actual browser&lt;/li&gt;
+  &lt;li&gt;#-tagged layers to facilitate style changes&lt;/li&gt;
+  &lt;li&gt;Guides along the column borders&lt;/li&gt;
+  &lt;li&gt;Based on the latest Bootstrap 4 alpha release (currently alpha 2)&lt;/li&gt;
+  &lt;li&gt;Non-artboard version for xl, that should work in older PS versions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This Photoshop template is free (as in free beer). I hope this helps someone.&lt;/p&gt;
+&lt;div class=&quot;centerButtons&quot;&gt;&lt;a class=&quot;btn btn-ht-black btn-ht-md&quot; href=&quot;/files/bootstrap-v4-grid_hackerthemes-alpha-2.zip&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;Download&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;feature-details&quot;&gt;Feature Details&lt;/h2&gt;
+
+&lt;h3 id=&quot;artboards&quot;&gt;Artboards&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/bs4psd/artboards.png&quot;&gt;&lt;img src=&quot;/images/bs4psd/artboards.thumb.png&quot; class=&quot;img-fluid img-rounded pull-right blog-thumb&quot; alt=&quot;Artboards&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Artboards were recently introduced in Photoshop CC and are very
+useful if you want to mockup your website for various screen sizes.
+I’ve added artboards for all Bootstrap breakpoints except xs.
+The reason that there is no artboard for xs is that on xs (&amp;lt;34em
+or &amp;lt;544px screen size), the container width is set to auto and therefore the columns
+will be a different size, depending on the viewport width.&lt;/p&gt;
+
+&lt;h3 id=&quot;shape-objects-for-columns-and-gutters&quot;&gt;Shape objects for columns and gutters&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/bs4psd/gutter_columns.png&quot;&gt;&lt;img src=&quot;/images/bs4psd/gutter_columns.thumb.png&quot; class=&quot;img-fluid img-rounded pull-right blog-thumb&quot; alt=&quot;Gutters and columns&quot; /&gt;&lt;/a&gt;
+The main feature of any Bootstrap PSD template really. Both columns and gutters are
+embodied by vertical columns with the exact sizes that Bootstrap will later use when CSS
+classes such as &lt;code class=&quot;highlighter-rouge&quot;&gt;col-md-5&lt;/code&gt; are used.&lt;/p&gt;
+
+&lt;h3 id=&quot;screen-size-helpers&quot;&gt;Screen size helpers&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/bs4psd/screenSizeHelper.png&quot;&gt;&lt;img src=&quot;/images/bs4psd/screenSizeHelper.thumb.png&quot; class=&quot;img-fluid img-rounded pull-right blog-thumb&quot; alt=&quot;Screen size helper&quot; /&gt;&lt;/a&gt;
+When designing a website, it might also be useful to be
+aware of what area of your design will be visible at once.
+This is why I included rectangular shapes with the exact dimensions of the &lt;a href=&quot;http://www.w3counter.com/globalstats.php&quot;&gt;most
+commonly used screen resolutions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;test-images-rendered-in-firefox&quot;&gt;Test images rendered in Firefox&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/bs4psd/test.png&quot;&gt;&lt;img src=&quot;/images/bs4psd/test.thumb.png&quot; class=&quot;img-fluid img-rounded pull-right blog-thumb&quot; alt=&quot;Firefox test image&quot; /&gt;&lt;/a&gt;
+In Bootstrap 4, not all container sizes are divisible by twelve without remainder, which leads to uneven column widths.
+In the current alpha release this happens on “large” viewports, where columns are either 48px or 49px wide. 
+To keep things as accurate as possible, I’ve used real Firefox renderings of the columns 
+to align and size the columns exactly as they are rendered in the browser.&lt;/p&gt;
+
+&lt;h3 id=&quot;tagged-layers&quot;&gt;#-tagged layers&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;/images/bs4psd/searchTags.png&quot;&gt;&lt;img src=&quot;/images/bs4psd/searchTags.thumb.png&quot; class=&quot;img-fluid img-rounded pull-right blog-thumb&quot; alt=&quot;Search Tags&quot; /&gt;&lt;/a&gt;
+Here’s a nifty Photoshop cheat I &lt;a href=&quot;http://graphicdesign.stackexchange.com/a/13806/14193&quot;&gt;learned recently&lt;/a&gt;:
+In order to change the color (or other shape attributes) of many objects scattered over a file,
+give them #tags and use the find-by-name function. Change one of them, and then use
+“Copy / Paste Shape Attributes” from the context menu to change all the others in the
+same way. This template has related objects tagged in a meaningful manner so colors and other attributes can be changed easily.&lt;/p&gt;
+
+&lt;div class=&quot;centerButtons&quot;&gt;&lt;a class=&quot;btn btn-ht-black btn-ht-md&quot; href=&quot;/files/bootstrap-v4-grid_hackerthemes-alpha-2.zip&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;Download&lt;/a&gt;&lt;/div&gt;
+</description>
+        <pubDate>Fri, 04 Dec 2015 00:00:00 +0100</pubDate>
+        <link>http://hackerthemes.com/blog/bootstrap-4-psd-template</link>
+        <guid isPermaLink="true">http://hackerthemes.com/blog/bootstrap-4-psd-template</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
